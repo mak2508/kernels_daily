@@ -6,3 +6,4 @@ Progress so far:
 |-------------|--------------|----------|
 | Vector Addition | [LeetGPU](https://leetgpu.com/challenges/vector-addition) | [Solution](solutions/vector_addition) |
 | Matrix Multiplication | [LeetGPU](https://leetgpu.com/challenges/matrix-multiplication) | [Solution](solutions/matrix_multiplication) |
+| Matrix Transpose | [LeetGPU](https://leetgpu.com/challenges/matrix-transpose) | [Solution](solutions/matrix_transpose) |
